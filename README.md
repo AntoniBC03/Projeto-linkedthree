@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> Meu Linked3 </h1>
 
 <p align="center">
@@ -50,3 +51,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+=======
+# Projeto-linkedthree
+Neste projeto eu fiz a programação de um site estilo Linked3 para estudo.
+>>>>>>> bd28ac968b4080500608def038a7f0845406ac2f
